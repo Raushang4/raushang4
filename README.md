@@ -1,14 +1,18 @@
-<img width="100%"  src="https://prakharshukla.dev/og_image.png" > 
+<!-- <img width="100%"  src="https://uploadnow.io/f/LrGwT5P" >  -->
+![Image Alt Text](image.jpg)
+
 
 <!-- <h3>About me,</h3> -->
 <h1 align="center"> About me</h1>
 
-I am <b>Prakhar Shukla</b>. I am acting as the CTO at [Devriz Technologies LLP](https://devriz.com) working
-on [Andronix](https//:andronix.app). I am a mobile and a full stack developer with some experience in DevOps and System
+I am <b>Raushan kumar</b>. I am Working as a "FULLSTACK WEB DEVELOPER" "Digital Marketing" I am Passionate to help & Grow small Bussiness and urly startup.
+<!-- 
+ the CTO at [Label](https://LINKPASTE.com) working
+on [LABEL](https//:LINK). I am a mobile and a full stack developer with some experience in DevOps and System
 Administration ⚡
 
-[Andronix App](https//:andronix.app), being the **_highest ranking app_** for the "Linux" keyword with over a **_million
-downloads_** is of the many projects I have been working on for years.
+[LABEL App](https//:LINKPASTE.app), being the **_highest ranking app_** for the "Linux" keyword with over a **_million
+downloads_** is of the many projects I have been working on for years. -->
 
 I enjoy building apps and services that have the potential to bring about a change in the world!
 
@@ -19,7 +23,7 @@ Contributor </h3>
  <h1 align="center">👋🏻 Connect with me</h1>
 
 <div align="center">
-<a  href="https://prakharshukla.dev" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Prakhar Shukla . DEV%20-%230077B5.svg?&style=for-the-badge&logo=codeberg&logoColor=white" /></a>
+<a  href="https://raushang4.dev" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/raushang4 . DEV%20-%230077B5.svg?&style=for-the-badge&logo=codeberg&logoColor=white" /></a>
 </div>
 
 
@@ -68,17 +72,17 @@ Contributor </h3>
 
 <table>
   <tr>
-<td><img height="180px" src="https://github-readme-stats.vercel.app/api?username=imprakharshukla&show_icons=true&theme=dark&count_private=true" />
-    <td><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imprakharshukla&layout=compact&theme=dark&count_private=true" /></td>
+<td><img height="180px" src="https://github-readme-stats.vercel.app/api?username=raushang4&show_icons=true&theme=dark&count_private=true" />
+    <td><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushang4&layout=compact&theme=dark&count_private=true" /></td>
   </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imprakharshukla&layout=compact&theme=dark&count_private=true" alt="Prakhar Shukla"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raushang4&layout=compact&theme=dark&count_private=true" alt="Prakhar Shukla"/></p>
   </div>
 
 # 📈 Contribution Graph
 
-[![Prakhar Shukla's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=imprakharshukla&&theme=xcode&count_private=true)](https://github.com/imprakharshukla)
+[![Raushan kumar GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=raushang4&&theme=xcode&count_private=true)](https://github.com/raushang4)
 
  </p>
